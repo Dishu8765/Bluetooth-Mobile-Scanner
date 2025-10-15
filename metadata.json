@@ -1,0 +1,5 @@
+{
+  "name": "Bluetooth Radar Scanner",
+  "description": "A mobile web application that simulates detecting nearby devices using Bluetooth, displaying them on a real-time radar interface with notifications and configurable settings.",
+  "requestFramePermissions": []
+}
